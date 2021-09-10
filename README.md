@@ -3,7 +3,7 @@ Coding for "Asymptotic Linearity of Consumption Functions and Computational Effi
 
 by Qingyin Ma and Alexis Akira Toda
 
-#### Functionality of different files:
+#### File Description
 
 `optimality.py` : the key optimality package.
 
